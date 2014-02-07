@@ -41,7 +41,7 @@ one of the following:
 * VirtualBox
 * images of IEx - IE11 (available at Voorhoede)
 
-## Now make some coffee
+## put some kroketjes in the frituurpan
 
 
 
